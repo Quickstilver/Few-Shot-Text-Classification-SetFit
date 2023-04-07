@@ -1,5 +1,6 @@
 # Few-Shot Text Classification with SetFit
 
+
 This project aims to analyze the few-shot learning performance of SetFit on three distinct text classification datasets. 
 
 SetFit, a state-of-the-art method for few-shot learning, is compared against a variant that does not fine-tune the pre-trained Sentence Transformer (ST).
